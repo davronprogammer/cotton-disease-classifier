@@ -1,0 +1,18 @@
+# Dataset va model (katta fayllar)
+data/
+models/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Kaggle
+.kaggle/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db

@@ -1,0 +1,32 @@
+Drag & drop rasm yuklash,Barcha sinflar foizi,Kasallik tavsifi,timestamp
+.gradio\flagged\Drag & drop rasm yuklash\e7dee519d189b4544db9\download.jpg,"{""label"": ""Sog'lom Barg"", ""confidences"": [{""label"": ""Sog'lom Barg"", ""confidence"": 0.9946621060371399}, {""label"": ""Fusarium So'lishi"", ""confidence"": 0.004230184946209192}, {""label"": ""Bakterial Dog'"", ""confidence"": 0.0005656573339365423}, {""label"": ""Barg Buralishi"", ""confidence"": 0.0005421012174338102}]}","✅ Sog'lom Barg
+
+Holat: O'simlik sog'lom, kasallik belgilari yo'q
+
+Sog'lom o'simlik belgilari:
+  • Barg rangi — to'q yashil, bir xil
+  • Barg yuzasi — silliq, dog'siz
+  • O'simlik o'sishi — me'yorda
+  • Tomirlar — aniq, yashil
+
+Profilaktika tavsiyalari:
+  • Har 2 haftada barglarni tekshirib turing
+  • Sug'orishni me'yorida bering
+  • Mineral o'g'itlarni me'yorida qo'llang
+  • Dalani begona o'tlardan tozalab turing",2026-05-22 22:53:58.851531
+.gradio\flagged\Drag & drop rasm yuklash\f27c925739e034ec4377\1-s2.0-S2352340925008637-gr4.jpg,"{""label"": ""Barg Buralishi"", ""confidences"": [{""label"": ""Barg Buralishi"", ""confidence"": 0.9782537221908569}, {""label"": ""Fusarium So'lishi"", ""confidence"": 0.01296943612396717}, {""label"": ""Sog'lom Barg"", ""confidence"": 0.0050327228382229805}, {""label"": ""Bakterial Dog'"", ""confidence"": 0.003744056448340416}]}","🌀 Barg Buralishi (Cotton Leaf Curl Virus)
+
+Sabab: Cotton leaf curl virus (CLCuV) — oq kapalakcha orqali tarqaladi
+Belgilar:
+  • Barglar yuqoriga yoki pastga buraladi
+  • Barg tomirlarida qalinlashish
+  • O'simlik o'sishdan to'xtaydi (stunting)
+  • Barglar qadoqlanib, qattiq tortadi
+
+Davolash:
+  • Oq kapalakchaga qarshi insektitsidlar
+  • Kasallangan o'simliklarni darhol yo'q qilish
+  • Virusga chidamli nav ekish (CLCuV-resistant)
+  • Begona o't nazorati
+
+Zarar darajasi: 🔴 Juda yuqori — epidemiya xavfi bor",2026-05-22 22:54:42.892894
